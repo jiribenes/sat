@@ -1,0 +1,9 @@
+c small example for unit prop
+c for multiple "rounds"
+c
+c has a single sat assign
+p cnf 3 3
+1 2 -3 0
+-2 3 0
+3 0
+-1 -3 0

@@ -1,0 +1,5 @@
+c small example for unit prop
+p cnf 3 3
+1 2 -3 0
+-2 3 0
+3 0
